@@ -19,7 +19,7 @@ with h5py.File('person.h5', "r") as f:
      person = f['person'][()]
     
 N = 16
-N_os = 10 # how many random patterns we use
+N_os = 16 # how many random patterns we use
 N_pat = N_os * N**2
 
 noise = 0 

@@ -5,4 +5,6 @@ Corresponding to the paper "Single-pixel transmission matrix recovery via 2-phot
 
 Authors: Shupeng Zhao//Bernhard Rauer//Lorenzo Valzania//Ruifeng Liu//Fuli Li//Sylvain Gigan//Hilton B. de Aguiar 
 
-contact: spzhao0724@gmail.com   //  version 04/2023
+Acknowledgements: The authors acknowledge the assistance of Eric Bezzam in optimizing the code.
+
+Contact: spzhao0724@gmail.com   //  version 04/2023
